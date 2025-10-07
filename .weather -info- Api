@@ -1,0 +1,5 @@
+mkdir weather-info-api
+cd weather-info-api
+git init
+npm init -y
+npm install express
